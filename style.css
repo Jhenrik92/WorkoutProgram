@@ -1,0 +1,12 @@
+
+#exerciseCol, #repCol, #kilogramsCol {
+    border: 1px solid;
+}
+
+#firstRow {
+    margin: auto;
+}
+
+#inputExercise, #inputSetsReps, #inputKilograms {
+    position: absolute;
+}
